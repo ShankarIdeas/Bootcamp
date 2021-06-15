@@ -1,0 +1,23 @@
+Differentiate Javascript & NodeJS
+
+1) Definition: It is an open-source, cross-platform, interpreted, lightweight scripting programming language that is used to develop dynamic and web applications.
+
+It is a cross-platform, open-source JavaScript runtime environment that allows JavaScript to be run on the server.
+	
+2) Type: It is a programming language. It works in any browser that has a proper browser engine.
+
+It's a JavaScript interpreter and environment with some valuable libraries that JavaScript programming can use separately.
+	
+3) Dedicated Server: It is generally used on the client-side server.
+It is generally used on the server-side.
+	
+4) Running Engines: JavaScript can be run on any engine, including Spider Monkey, V8, and JavaScript Core.
+Node JS is only supported by the V8 engine, which Google Chrome mostly uses. Any JavaScript program written with Node JS will always be run in the V8 engine.
+	
+5) Used for: It is designed to build network-centric applications.
+It's designed for data-intensive real-time applications that run on several platforms.
+
+6) Languages: It's a newer version of the ECMA script that runs on Chrome's V8 engine, which is written in C++.
+It uses C, C++, and JavaScript.
+7) Modules: Few JavaScript frameworks are TypedJS, RamdaJS, etc.
+Lodash, express are examples of Nodejs modules. These all modules are to be imported from npm.
