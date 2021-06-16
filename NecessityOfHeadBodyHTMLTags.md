@@ -46,5 +46,3 @@ IE has at least one known bug in this area. Even IE9 exhibits this. Suppose the 
  <a href="http://software.hixie.ch/utilities/js/live-dom-viewer/?%3C!DOCTYPE%20html%3E%0D%0A%3Ctitle%3ETest%20case%3C%2Ftitle%3E%0D%0A%3Cform%20action%3D%22%23%22%3E%0D%0A%3Cinput%20name%3D%22var1%22%3E%0D%0A%3C%2Fform%3E%0D%0A">See it for yourself</a>.
  
  This bug seems limited to the <code>form</code> start tag preceding any text content and any <code>body</code> start tag.
-
-
